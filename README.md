@@ -1,1 +1,2 @@
 # company-fixtures-app
+This application is a full stack web application where the administrator categorizes the company items, saves them to the system and assigns them to the people, and shows who is currently using which product. In this project, I used MongoDB, Express.js, React.js, Node.js and TailwindCSS.
